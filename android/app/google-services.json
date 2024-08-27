@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "979597925027",
+    "firebase_url": "https://mental-health-app-75d57-default-rtdb.firebaseio.com",
+    "project_id": "mental-health-app-75d57",
+    "storage_bucket": "mental-health-app-75d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979597925027:android:cd4f8e529343adf7ec7d16",
+        "android_client_info": {
+          "package_name": "mental.health21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhK8t3J0AJZs2bHP3X-ZZwe8ML94oBgq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
